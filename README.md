@@ -1,9 +1,15 @@
+# 👨‍💻 Emanuel Fortes
+
+Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, unindo visão de produto e tecnologia para entregar soluções escaláveis.
+
+---
+
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emanuelfortes&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelfortes&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emanuelfortes&show_icons=true&theme=gruvbox"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelfortes&layout=compact&theme=gruvbox"/>
 
 </div>
 
@@ -22,6 +28,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=emanuelfortes&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=emanuelfortes&color=orange"/>
 
 </div>
