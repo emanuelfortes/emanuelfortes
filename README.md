@@ -22,7 +22,7 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=emanuelfortes&color=orange"/>
+
 
 </div>
 <p align="center">
@@ -39,4 +39,9 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanuelfortes&theme=gruvbox"/>
 
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanuelfortes&color=orange"/>
+</div>
+
 
