@@ -26,9 +26,6 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelfortes&theme=gruvbox" />
 </p>
 
