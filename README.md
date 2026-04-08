@@ -12,6 +12,7 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 </div>
 
 <img src="https://streak-stats.demolab.com?user=emanuelfortes&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=emanuelfortes&theme=gruvbox&no-frame=true&row=1&column=6" />
 ---
 
 ## 💻 Tecnologias & 👁️ Visitas
