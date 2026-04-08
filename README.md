@@ -8,7 +8,9 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 <div align="center">
   <img  src="https://streak-stats.demolab.com?user=emanuelfortes&theme=gruvbox" />
 </div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres&theme=dark" />
+</p>
 
 ---
 
