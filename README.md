@@ -25,6 +25,4 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 <img src="https://komarev.com/ghpvc/?username=emanuelfortes&color=orange"/>
 
 </div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs&perline=4" />
-</p>
+
