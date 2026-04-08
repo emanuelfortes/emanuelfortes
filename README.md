@@ -29,6 +29,8 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelfortes&theme=gruvbox" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emanuelfortes&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanuelfortes&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanuelfortes&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emanuelfortes&theme=gruvbox"/>
 </p>
 
