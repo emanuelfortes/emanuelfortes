@@ -17,7 +17,7 @@ Fullstack Developer & Product Owner com experiência em desenvolvimento de CRM, 
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,aws,docker,git,github,linux,redis,prisma&theme=dark" />
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelfortes&theme=gruvbox" />
 <br><br>
